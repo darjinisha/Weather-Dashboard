@@ -6,7 +6,7 @@ A simple and responsive weather app built with **React** and **OpenWeatherMap AP
 
 ## 📸 Screenshot
 
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](./src/assets/screenshot.png)
 
 ---
 
